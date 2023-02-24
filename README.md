@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+My name is Enzo, I'm from Argentina and I'm an SRE trainee
+
+    Currently working for DonWeb as a Technical Support Lv1 
+    
+Skills
+
+     Docker
+     Kubernetes 
+     Azure
+     Terraform
+     Linux
+     Bash - Scripting 
+     Agile-Scrum
+     Critical thinking
+     Decision-making and problem solving skills
+     
+     
+     
+    
+
+
 <!--
 **Enzo2602/Enzo2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
